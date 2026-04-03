@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ashish! 
 
-<!--
-**AshishOverflow/AshishOverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+-  I'm a second year Cybersecurity Student exploring various domains rn!
+-  I’m currently learning WebDev and DevOps!
 
-Here are some ideas to get you started:
+### Tech Stack & Tooling
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,docker,git,github,html,java,js,latex,py,react,supabase,tailwind,vercel,vscode&perline=7" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 How to reach me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-m-k-s">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashishmksofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
