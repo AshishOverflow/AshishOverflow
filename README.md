@@ -2,7 +2,7 @@
 
 ### About Me
 -  I'm a second year Cybersecurity Student exploring various domains rn!
--  I’m currently learning WebDev and DevOps!
+-  I’m currently focusing on Web Development!
 
 ### Tech Stack & Tooling
 <p align="center">
