@@ -1,12 +1,12 @@
 # Hi there, I'm Ashish! 
 
 ### About Me
--  I'm a second year Cybersecurity Student exploring various domains rn!
+-  I'm a third year Cybersecurity Student exploring various domains rn!
 
 ### Tech Stack & Tooling
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,docker,git,github,html,java,js,latex,py,react,supabase,tailwind,vercel,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,docker,git,github,html,java,js,py,react,supabase,tailwind,vercel,vscode&perline=7" />
   </a>
 </p>
 
