@@ -1,5 +1,7 @@
 # Hi there, I'm Ashish! 
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ### About Me
 -  I'm a third year Cybersecurity Student exploring various domains rn!
 
